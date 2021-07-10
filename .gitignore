@@ -1,0 +1,4 @@
+*.pem
+*.data
+*.crt
+*.log
